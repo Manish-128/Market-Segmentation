@@ -1,0 +1,1 @@
+This is a market segmentation notebook for McDonalds. This Market segmentation notebook is the conversation of the visualization and market segmentation steps and code from the boom Market Segmentation Analysis by Sara Dolnicar. 
