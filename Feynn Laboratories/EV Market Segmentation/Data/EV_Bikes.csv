@@ -1,0 +1,38 @@
+Name,Brand,Model,ChargingTime,Mileage,Speed,PriceRange,MaxMileage,BaseMileage,isLowBudget,isHighBudget
+Revolt RV400,Revolt,RV400,4,80-150,85,1.2,150,80,1,0
+Ultraviolette F77,Ultraviolette,F77,0,211 - 323,155,2.99,323,211,0,1
+Ola Roadster,Ola,Roadster,4,151 - 248,116,1.04,248,151,1,0
+Oben Rorr,Oben,Rorr,0,187,100,1.19,0,187,1,0
+BMW CE 02,BMW,CE,3,108,95,4.49,0,108,0,1
+Revolt RV1,Revolt,RV1,0,100 - 160,70,0.8499,160,100,1,0
+Komaki Ranger,Komaki,Ranger,4,140 - 200-250,80,1.68,200,140,0,1
+Ola Roadster Pro,Ola,Roadster,7,316 - 579,194,1.99,579,316,0,1
+Raptee T 30,Raptee,T,0,200,135,2.39,0,200,0,1
+Matter Aera,Matter,Aera,5,125,0,1.73,0,125,0,1
+Revolt RV400 BRZ,Revolt,RV400,4,80-150,85,1.02,150,80,1,0
+Ola Roadster X,Ola,Roadster,5,117 - 200,124,0.74999,200,117,1,0
+Kabira Mobility KM3000,Kabira,Mobility,3,178 - 201,120,1.6,201,178,0,1
+MX Moto M16,MX,Moto,5,160-220,0,1.98,220,160,0,1
+Atumobile Atum Version 1.0,Atumobile,Atum,3,100,25,0.615,0,100,1,0
+ABZO VS01,ABZO,VS01,6,180,0,1.45,0,180,1,0
+Srivaru Prana 2.0,Srivaru,Prana,5,150 - 250,123,2.55,250,150,0,1
+One Electric Motorcycles Kridn,One,Electric,0,110,90,1.35,0,110,1,0
+Power EV P-Sport,Power,EV,4,140 - 150-100,85,1.45,150,140,1,0
+Atumobile AtumVader,Atumobile,AtumVader,4,100,65,1.08,0,100,1,0
+MX Moto MX9,MX,Moto,0,120-148,80,1.45,148,120,1,0
+Orxa Mantis,Orxa,Mantis,0,221,135,3.6,0,221,0,1
+Odysse Electric Evoqis,Odysse,Electric,0,0,80,1.71,0,0,0,1
+PURE EV EcoDryft,PURE,EV,6,106 - 131-171,80,0.99999,131,106,1,0
+Joy e-bike Beast,Joy,e-bike,9,110,90,2.42,0,110,0,1
+JHEV Delta R3,JHEV,Delta,3,140-150,90,1.69,150,140,0,1
+Hop Oxo,Hop,Oxo,4,60 - 70-150,82,1.33,70,60,1,0
+SVITCH CSR 762,SVITCH,CSR,0,190,120,1.89,0,190,0,1
+PURE EV eTryst 350,PURE,EV,6,111-171,94,1.29,171,111,1,0
+Earth Energy EV Evolve Z,Earth,Energy,2,100,95,1.3,0,100,1,0
+Earth Energy EV Evolve R,Earth,Energy,2,100,110,1.42,0,100,1,0
+Joy e-bike Thunderbolt,Joy,e-bike,9,110,90,2.33,0,110,0,1
+Joy e-bike Hurricane,Joy,e-bike,8,80,90,2.33,0,80,0,1
+Odysse Electric VADER,Odysse,Electric,0,0,85,1.61,0,0,0,1
+BMW CE 04,BMW,CE,4,130,120,14.9,0,130,0,1
+Kabira Mobility KM4000,Kabira,Mobility,3,178 - 201,120,1.63,201,178,0,1
+Rowwet Trono,Rowwet,Trono,0,0,100,1.8,0,0,0,1

@@ -1,0 +1,31 @@
+Name,Brand,Model,PriceRange,Speed,Mileage,Details,isLowBudget,isHighBudget
+Bajaj Chetak,Bajaj,Chetak,1,73,137,73 km/Hr137 km/charge5.5 Hr,0,0
+Ola S1 Pro,Ola,S1 Pro,1.2,120,195,120 km/Hr195 km/charge6.5 Hr,0,1
+TVS iQube,TVS,iQube,1.07,78,100,78 km/Hr100 km/charge,0,1
+Ather 450X,Ather,450X,1.43,90,150,90 km/Hr150 km/charge5.45 Hr,0,1
+Ola S1 X,Ola,S1 X,0.7,90,190,90 km/Hr190 km/charge6.5 Hr,1,0
+Hero Electric Optima,Hero,Electric Optima,0.833,48,89,48 km/Hr89 km/charge4.5 Hr,1,0
+Ather Rizta,Ather,Rizta,1.12,80,160,80 km/Hr160 km/charge6.1 Hr,0,1
+Simple One,Simple,One,1.45,105,212,105 km/Hr212 km/charge,0,1
+Vida V1,Vida,V1,1.03,80,165,80 km/Hr165 km/charge,0,1
+Ola S1 Air,Ola,S1 Air,1.07,90,151,90 km/Hr151 km/charge5 Hr,0,1
+Avon E Scoot 504,Avon,E Scoot 504,0.45,24,65,24 km/Hr65 km/charge7-8 Hr,1,0
+Ampere Magnus EX,Ampere,Magnus EX,0.799,50,121,50 km/Hr121 km/charge6-7 Hr,1,0
+TVS X,TVS,X,2.5,105,140,105 km/Hr140 km/charge,0,1
+Yulu Wynn,Yulu,Wynn,0.5556,25,68,25 km/Hr68 km/charge,1,0
+River Indie,River,Indie,1.38,90,120,90 km/Hr120 km/charge,0,1
+Zelio Gracy i,Zelio,Gracy i,0.5682,0,0,120 km/charge9-10 Hr,1,0
+Komaki X One,Komaki,X One,0.36,0,0,150 km/charge,1,0
+Ampere Nexus,Ampere,Nexus,1.15,93,136,93 km/Hr136 km/charge3.3 Hr,0,1
+Okinawa PraisePro,Okinawa,PraisePro,0.8444,56,81,56 km/Hr81 km/charge2-3 Hr,1,0
+Tunwal Strom Advance 2,Tunwal,Strom Advance 2,1.35,25,60,25 km/Hr60-70 km/charge6-7 Hr,0,1
+Komaki XGT CAT 2.0,Komaki,XGT CAT 2.0,0.75,0,0,120 km/charge4-5 Hr,1,0
+Zelio Eeva,Zelio,Eeva,0.5458,0,0,60-120 km/charge4-5 Hr,1,0
+Tunwal Storm ZX,Tunwal,Storm ZX,0.9,25,70,25 km/Hr70-75 km/charge6-7 Hr,1,0
+BGauss C12i,BGauss,C12i,0.9999,60,123,60 km/Hr123 km/charge4.3-5 Hr,1,0
+ADMS EVA,ADMS,EVA,1.35,0,0,90-150 km/charge,0,1
+ADMS GTR,ADMS,GTR,0.798,0,0,60-100 km/charge4-8 Hr,1,0
+Tunwal Lithino Li,Tunwal,Lithino Li,0.7499,25,100,25 km/Hr100-110 km/charge4-5 Hr,1,0
+Zelio X Men,Zelio,X Men,0.6454,0,0,70 km/charge7-9 Hr,1,0
+Bounce Infinity E.1,Bounce,Infinity E.1,0.59,65,70,65 km/Hr70 km/charge3-4 Hr,1,0
+Hero Electric Flash,Hero,Electric Flash,0.5964,25,85,25 km/Hr85 km/charge4-5 Hr,1,0
